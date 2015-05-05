@@ -2,7 +2,7 @@
 
 ![Bow to your Sensei](http://static1.1.sqspcdn.com/static/f/1209144/20265241/1347563118103/RexKwonDo2.jpg?token=mU%2Beslcb3UKPj3JU%2FUTKrbccAxI%3D)
 
-These tips are the basic dojo rules you must learn before even the most basic command line work can get done. If you haven't got these down, everything is going to take much longer than it needs to. These are also definitely a prerequisite to any command line activity while pair programming if you don't want your pair to pull their hair out during the session.
+These tips are the dojo ground rules you must learn before even the most basic command line work can get done. If you haven't got these down, everything is going to take much longer than it needs to. These are also definitely a prerequisite to any command line activity while pair programming if you don't want your pair to pull their hair out during the session.
 
 ### tab completion
 
