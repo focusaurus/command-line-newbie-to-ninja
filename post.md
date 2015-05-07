@@ -119,7 +119,7 @@ So instead of:
 Code it as:
 
     curl \
-      --cookie 'active=1'
+      --cookie 'active=1' \
       --dump-header /tmp/headers.txt \
       --referer http://example.com \
       --remote-name \
